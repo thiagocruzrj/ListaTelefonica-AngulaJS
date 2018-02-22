@@ -1,5 +1,5 @@
 .jumbotron{
-	width: 400px;
+	width: 550px;
 	text-align: center;
 	margin-top: 20px;
 	margin-left: auto;
@@ -25,4 +25,7 @@ select{
 }
 .negrito{
 	font-weight: bolder;
+}
+.form-control {
+    margin-bottom: 10px;
 }
